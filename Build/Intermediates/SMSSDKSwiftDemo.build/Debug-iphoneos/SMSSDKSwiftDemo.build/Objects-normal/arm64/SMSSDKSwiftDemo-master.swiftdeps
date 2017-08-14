@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "04a0eae4d9c6d389fff1bca78047e661"
+build_time: [556014494, 903964000]
+inputs:
+  "/Users/youzu/Desktop/SMSSDK_swiftBradge/SMSSDKSwiftDemo/ViewController.swift": [556011424, 0]
+  "/Users/youzu/Desktop/SMSSDK_swiftBradge/SMSSDKSwiftDemo/AppDelegate.swift": [556011424, 0]
